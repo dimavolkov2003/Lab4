@@ -1,0 +1,7 @@
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\obj\Debug\StructuralPatterns.csproj.AssemblyReference.cache
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\obj\Debug\StructuralPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\bin\Debug\StructuralPatterns.exe.config
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\bin\Debug\StructuralPatterns.exe
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\bin\Debug\StructuralPatterns.pdb
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\obj\Debug\StructuralPatterns.exe
+C:\Users\Main\source\repos\StructuralPatterns\StructuralPatterns\obj\Debug\StructuralPatterns.pdb
